@@ -1,0 +1,63 @@
+_repo: Maison-Rougen-ritari_74797
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Somersalo, Aili
+    aliases:
+    - Sommer, Aili
+    - Candolin, Aili
+    - Sarkanen, Aune
+    - Summers, Eileen
+    - Tarvas, Aili
+    - Somersalo, A.
+    birthdate: 1887
+    deathdate: 1957
+    gutenberg_agent_id: '54779'
+    url: http://www.gutenberg.org/2009/agents/54779
+    wikipedia: https://fi.wikipedia.org/wiki/Aili_Somersalo
+creator:
+  authors:
+  - agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - père, Alexandre Dumas
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+  - agent_name: Maquet, Auguste
+    birthdate: 1813
+    deathdate: 1888
+    gutenberg_agent_id: '3930'
+    url: http://www.gutenberg.org/2009/agents/3930
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Auguste_Maquet
+    - https://fr.wikipedia.org/wiki/Auguste_Maquet
+description: 'Translation of first half of Le chevalier de Maison-Rouge, #18006. For
+  second half, see Hirmuhallitus: #74803.'
+gutenberg_issued: '2024-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74797'
+language: fi
+pgterms:marc905: 20240603091824dumas
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+- !lcsh 'Girondists -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Maison-Rougen ritari
+url: http://www.gutenberg.org/ebooks/74797
